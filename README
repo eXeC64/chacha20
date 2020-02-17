@@ -1,0 +1,7 @@
+chacha20
+========
+
+A small chacha20 implementation written for fun and self-education.
+Don't use this. Use a proper library like NaCl.
+
+License: Public Domain
